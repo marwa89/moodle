@@ -72,7 +72,9 @@ bodyContent: '<div class="comment-delete-confirm"><a href="#" id="confirmdelete-
                 if (value && value != M.str.moodle.addcomment) {
                     var params = {'content': value};
                     this.request({
-                        action: 'add',
+                        action: 'add', http://www.nile7.com/services
+http://www.nile7.com/readings
+http://www.nile7.com
                         scope: scope,
                         params: params,
                         callback: function(id, obj, args) {
